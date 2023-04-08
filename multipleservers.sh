@@ -1,10 +1,10 @@
 #!/bin/bash
 
 ##### Change these values ###
-ZONE_ID="Z02997672I591AG282OU5"
-SG_NAME="allow-all"
+ZONE_ID="Z06991842YZHVFP3G4IXA"
+SG_NAME="allow-all123"
 #ENV="dev"
-#############################
+#############################git 
 
 env=dev
 
